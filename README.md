@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am **[Arepalle Charan Kumar Reddy]**, a **[1st] B.Tech student majoring in [CSE(AI)]** at **[Amrita Vishwa Vidyapeetham,Coimbatore,Tamilnadu,India]**. Passionate about **technology, problem-solving, and innovation**, I am always eager to learn new concepts and explore emerging trends in the software industry.  
+I am **Arepalle Charan Kumar Reddy**, a **1st B.Tech student majoring in CSE(AI)** at **Amrita Vishwa Vidyapeetham,Coimbatore,Tamilnadu,India**. Passionate about **technology, problem-solving, and innovation**, I am always eager to learn new concepts and explore emerging trends in the software industry.  
 
 ## **Hobbies & Extracurricular Activities**  
 Beyond academics, I enjoy:  
